@@ -1,10 +1,8 @@
 # student30538-w26
-# PPHA 30538: Data and Programming in Python
-## Fall 2024
+# PPHA 30538: Data Analytics and Visualization for Public Policy
+## Winter 2026
 ## University of Chicago Harris School of Public Policy
 ## Peter Ganong and Maggie Shi
-
-Welcome to the **new** student repository for PPHA 30538: Data and Programming in Python. 
 
 # Repository Structure
 
